@@ -1,16 +1,24 @@
-## Hi there 👋
+👩‍🔬 Mayra Mandolesi Valvano – Data Science & R&D Portfolio
+Welcome to my GitHub portfolio! I'm a Senior Research and Development Analyst with a strong focus on data analysis for scientific research and process optimization.
 
-<!--
-**MayraValvano/MayraValvano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧪 Featured Project: Enzinetics
+Enzinetics is a software tool I developed for simulation and modeling of enzymatic kinetics reactions, based on the Michaelis-Menten theory. It enables researchers to visualize and analyze enzyme behavior under various conditions, supporting experimental design and hypothesis testing in biochemical studies.
+Key features:
+Interactive simulation of enzyme-substrate interactions
+Parameter tuning for kinetic constants
+Graphical output for reaction rate curves
+Built with Python and scientific libraries
 
-Here are some ideas to get you started:
+🛠️ Skills & Tools
+Languages: Python, SQL
+Data Tools: Power BI, Excel, Pandas, NumPy
+Process Improvement: Lean Six Sigma methodologies
+Automation & Reporting: SharePoint, PowerPoint
+Scientific Modeling: Enzyme kinetics, statistical analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 What You'll Find Here
+This repository showcases:
+Data analysis projects and dashboards
+Python scripts for research and productivity
+SQL queries for data extraction and transformation
+Scientific modeling tools like Enzinetics
