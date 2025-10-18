@@ -1,4 +1,5 @@
 👩‍🔬 Mayra Mandolesi Valvano – Data Science & R&D Portfolio
+
 Welcome to my GitHub portfolio! I'm a Senior Research and Development Analyst with a strong focus on data analysis for scientific research and process optimization.
 
 🧪 Featured Project: Enzinetics
