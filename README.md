@@ -4,7 +4,9 @@ Welcome to my GitHub portfolio! I'm a Senior Research and Development Analyst wi
 
 🧪 Featured Project: Enzinetics
 Enzinetics is a software tool I developed for simulation and modeling of enzymatic kinetics reactions, based on the Michaelis-Menten theory. It enables researchers to visualize and analyze enzyme behavior under various conditions, supporting experimental design and hypothesis testing in biochemical studies.
+
 Key features:
+
 Interactive simulation of enzyme-substrate interactions
 Parameter tuning for kinetic constants
 Graphical output for reaction rate curves
@@ -12,9 +14,13 @@ Built with Python and scientific libraries
 
 🛠️ Skills & Tools
 Languages: Python, SQL
+
 Data Tools: Power BI, Excel, Pandas, NumPy
+
 Process Improvement: Lean Six Sigma methodologies
+
 Automation & Reporting: SharePoint, PowerPoint
+
 Scientific Modeling: Enzyme kinetics, statistical analysis
 
 📁 What You'll Find Here
