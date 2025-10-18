@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Mayra Valvano –
+# 👩🏻‍💻 Mayra Valvano
 
 **`R&D Data Analytics`**
 
