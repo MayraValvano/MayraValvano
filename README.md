@@ -3,14 +3,15 @@
 **`R&D Data Analytics`**
 
 I'm a Bioprocess and Biotechnology Engineer graduated from UNESP, currently working as a Senior Research & Development Analyst. I hold a Lean Six Sigma Black Belt certification and specialize in R&D Data Analytics, applying tools like Python, SQL, and Business Intelligence to support data-driven research and innovation.
+
 My work focuses on:
 
-Developing and monitoring performance indicators for research projects
-Implementing process control strategies
-Designing and deploying data capture and treatment tools for experimental workflows
-Enhancing decision-making in R&D through data analysis and visualization
+📈 Developing and monitoring performance indicators for research projects <br/>
+⚙️ Implementing process control strategies <br/>
+💻 Designing and deploying data capture and treatment tools for experimental workflows <br/>
+📊 Enhancing decision-making in R&D through data analysis and visualization <br/>
 
-I'm passionate about bridging the gap between scientific research and data science, and currently pursuing an MBA in Data Science & Analytics, with a focus on applying analytical techniques to research environments.
+I'm passionate about bridging the gap between scientific research and data science, and currently pursuing an MBA in Data Science & Analytics, with a focus on applying analytical techniques to research and industrial environments.
 
 ### 🤖 Languages & Technologies
 
