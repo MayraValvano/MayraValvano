@@ -12,23 +12,23 @@ Enhancing decision-making in R&D through data analysis and visualization
 
 I'm passionate about bridging the gap between scientific research and data science, and currently pursuing an MBA in Data Science & Analytics, with a focus on applying analytical techniques to research environments.
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
-    alt="SQL"
-    title="SQL" 
+    alt="Oracle"
+    title="Oracle" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
 <img 
     align="left" 
-    alt="DBeaver" 
-    title="DBeaver"
+    alt="SQLite" 
+    title="SQLite"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg](https://github.com/devicons/devicon/blob/v2.17.0/icons/dbeaver/dbeaver-original.svg)" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/sqlite/sqlite-original.svg"
 />
 <img 
     align="left" 
@@ -46,17 +46,21 @@ I'm passionate about bridging the gap between scientific research and data scien
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
+<img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
+    alt="DBeaver" 
+    title="DBeaver"
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
+/>
+          
+<br/>
+<br/>
+
+### 📬 Contact
+
+
+LinkedIn: [linkedin/mayravalvano](https://www.linkedin.com/in/mayravalvano) <br/>
+GitHub: [github/MayraValvano](https://github.com/MayraValvano) <br/>
+Email: mayra.valvano@unesp.br <br/>
